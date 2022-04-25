@@ -62,9 +62,11 @@ Here are some ideas to get you started:
 
 ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-### Dev Tools and Version Control
+### Agile Tools
 ![jira](https://img.shields.io/badge/JIRA-004FC6?style=for-the-badge&logo=jira&logoColor=white)
 ![zoho](https://img.shields.io/badge/zoho-CE2232?style=for-the-badge&logo=zoho&logoColor=white)
+
+###  Version Control
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![bitbucket](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
