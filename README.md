@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 ## 🚀 About Me
-🎓 I am Sakthisivaprakash, a **Front End Web Developer** (specializing in **React Application**). I am Pursued my Bachelor in **Computer Science & Engineering** in year 2014 and also pursued my Post Graduate Diploma in **Multimedia Technology** in the year 2015.
+🎓 I am Sakthisivaprakash, a **React Fullstack Developer** (specializing in **React Application**). I am Pursued my Bachelor in **Computer Science & Engineering** in year 2014 and also pursued my Post Graduate Diploma in **Multimedia Technology** in the year 2015.
 
 🔭 I have started my carrier as User Interface Developer at **Infinijith Technologies** in the year 2016. As I was self learned professional, I have faced lot of problems and solved it my self. I have exposure in various parts of web development, from Front End to Back End. 
 
